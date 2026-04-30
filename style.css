@@ -83,12 +83,9 @@ body {
     justify-content: center;
     align-items: end;
 }
-.bottom > p {
+.bottom > h1 {
     max-width: 70vw;
     text-align: center;
-}
-
-p{
     font-size: 40px;
     color: white;
     /* text-shadow: 0 1px 0 black; */
